@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/transient-ischaemic-attack-tia---primary.py
+inputModule3:
+  class: File
+  path: python/transient-ischaemic-attack-fugax---primary.py
+inputModule4:
+  class: File
+  path: python/transient-ischaemic-attack-amnesia---primary.py
+inputModule5:
+  class: File
+  path: python/transient-ischaemic-attack-ischaemia---primary.py
+inputModule6:
+  class: File
+  path: python/other-transient-ischaemic-attack---primary.py
+inputModule7:
+  class: File
+  path: python/vertebrobasilar-transient-ischaemic-attack---primary.py
+inputModule8:
+  class: File
+  path: python/transient-ischaemic-attack-history---primary.py
+inputModule9:
+  class: File
+  path: python/transient-ischaemic-attack-artery---secondary.py
+inputModule10:
+  class: File
+  path: python/transient-ischaemic-attack-syndrome---secondary.py
+inputModule11:
+  class: File
+  path: python/transient-ischaemic-attack---secondary.py
+inputModule12:
+  class: File
+  path: python/precerebral-transient-ischaemic-attack---secondary.py
+inputModule13:
+  class: File
+  path: python/transient-ischaemic-attack-infarction---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
